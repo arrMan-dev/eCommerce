@@ -4,7 +4,7 @@ to build upon.
 
 # Technoligies used
 -IDE : IntelliJ
--Language : Java 8
+-Language : Java 8, CSS, Html
 -Framework : Spring MVC
 -Test : JUnit
 -Orm : JPA
